@@ -43,42 +43,4 @@ footer .navbar-nav .nav-item .nav-link:hover{
 .bottom-bar{
 	height: 50px;line-height: 50px;background-color: #FFC113
 }
-#service a{
-text-decoration: none;color:#4B4B4B	
-}
-#service a:hover{
-color:#FFC113	
-}
-#why{
-	min-height: 300px;background-image:url("../images/why.jpg");background-repeat: no-repeat;background-size:cover;background-position: center top
-}
-#client .hinh{
-	position: relative
-}
-#client .before{
-	position: absolute;left: 0;top: 0;padding: 10px;background-color:rgba(255,255,255,0.60)
-}
-#client .after{
-	position: absolute;left: 50%;top: 0;padding: 10px;background-color:rgba(255,255,255,0.60)
-}
-#cn .noi-dung{
-	text-align: center;display: flex
-}
-#cn .noi-dung img{
-	width: 80px;height: 80px
-}
-#banner{
-	width: 100%;min-height: 350px;background-image: url("../images/pageheader.png");background-repeat: no-repeat;background-size: cover;object-position: center top
-}
-.text-do{
-	color: #EB181C
-}
-.text-den{
-	color:#000000
-}.text-vang{
-	color: #FFC113
-}
-.
-
-
 
